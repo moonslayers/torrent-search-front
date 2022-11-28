@@ -11,4 +11,4 @@ You can search UABC in google for more info.
 My name is Jorge I'm studing a degree in Computer Sciences. I love it...
 
 ### Test
-just type https://torrent-search.onrender.com
+just type https://torrent-search-2vge.onrender.com/
