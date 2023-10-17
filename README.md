@@ -12,5 +12,3 @@ My name is Jorge I'm studing a degree in Computer Sciences. I love it...
 
 ### Test
 just type https://torrent-search-2vge.onrender.com/
-
-https://raw.githubusercontent.com/moonslayers/torrent-search-front/main/public/torrent%20search.png
